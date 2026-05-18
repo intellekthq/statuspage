@@ -2,7 +2,7 @@
   {
     "name": "bustdown API",
     "url": "https://bustdownapi.intellekt.fyi/health",
-    "icon": "https://raw.githubusercontent.com/intellekthq/intellekt-statuspage/main/assets/bustdown.png",
+    "icon": "https://raw.githubusercontent.com/intellekthq/statuspage/main/assets/bustdown.png",
     "slug": "bustdown-api",
     "status": "down",
     "uptime": "0.00%",
@@ -10,19 +10,19 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 91,
-    "timeDay": 91,
-    "timeWeek": 91,
-    "timeMonth": 91,
-    "timeYear": 91,
+    "time": 101,
+    "timeDay": 101,
+    "timeWeek": 101,
+    "timeMonth": 101,
+    "timeYear": 101,
     "dailyMinutesDown": {
-      "2026-05-18": 1
+      "2026-05-18": 5
     }
   },
   {
     "name": "kmap API",
     "url": "https://kmap.api.intellekt.fyi/health",
-    "icon": "https://raw.githubusercontent.com/intellekthq/intellekt-statuspage/main/assets/kmap.png",
+    "icon": "https://raw.githubusercontent.com/intellekthq/statuspage/main/assets/kmap.png",
     "slug": "kmap-api",
     "status": "down",
     "uptime": "0.00%",
@@ -30,13 +30,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 88,
-    "timeDay": 88,
-    "timeWeek": 88,
-    "timeMonth": 88,
-    "timeYear": 88,
+    "time": 69,
+    "timeDay": 69,
+    "timeWeek": 69,
+    "timeMonth": 69,
+    "timeYear": 69,
     "dailyMinutesDown": {
-      "2026-05-18": 1
+      "2026-05-18": 5
     }
   }
 ]
