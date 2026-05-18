@@ -17,8 +17,8 @@ status-website:
   cname: status.intellekt.fyi
   name: intellekt status
   logoUrl: https://raw.githubusercontent.com/intellekthq/statuspage/main/assets/logo.svg
-  introTitle: intellekt status
-  introMessage: Real-time uptime for intellekt APIs. Probes run every 5 minutes from GitHub Actions.
+  introTitle: Intellekt Status
+  introMessage: Live pulse on every intellekt API. Pinged from neutral public infrastructure, every five minutes. If something here is red, your stack is seeing it too — and we're already on it.
   navbar:
     - title: Status
       href: /
@@ -28,6 +28,7 @@ status-website:
   # Upstream Upptime CSS uses utility classes; the rules below target
   # the documented anchor/badge surfaces. Tune after first deploy if needed.
   customHeaderHTML: |
+    <link rel="icon" type="image/svg+xml" href="https://raw.githubusercontent.com/intellekthq/statuspage/main/assets/favicon.svg">
     <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/intellekthq/statuspage/main/assets/favicon.ico">
     <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/intellekthq/statuspage/main/assets/apple-touch-icon.png">
     <style>
