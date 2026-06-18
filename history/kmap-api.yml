@@ -1,7 +1,7 @@
 url: https://kmap.api.intellekt.fyi/api/health
-status: up
-code: 200
-responseTime: 203
-lastUpdated: 2026-06-18T00:19:17.802Z
+status: down
+code: 503
+responseTime: 453
+lastUpdated: 2026-06-18T21:06:52.449Z
 startTime: 2026-05-18T19:55:54.013Z
 generator: Upptime <https://github.com/upptime/upptime>
